@@ -70,6 +70,7 @@ CAPITULO 14 TRANSFORMADORES:
 ![image](https://user-images.githubusercontent.com/105689577/186061315-21dd1200-691a-4336-bee9-2df08950b038.png)
 
 # VIDEO
+https://youtu.be/RVYxJcDINf4
 
 # CONCLUSIONES
 
